@@ -34,7 +34,10 @@ US3 对象存储提供外网、内网域名两种访问方式：外网域名可�
 | 英国	| uk-london.ufileos.com | internal-uk-london.ufileos.com |
 | 俄罗斯（莫斯科） | rus-mosc.ufileos.com | internal-rus-mosc.ufileos.com |
 | 贵阳 | cn-guiyang1.ufileos.com | internal-cn-guiyang1.ufileos.com |
-| 巴基斯坦 | pk-khi.ufileos.com | internal-pk-khi.ufileos.com |
+| 美国（丹佛） | us-den.ufileos.com | internal-us-den.ufileos.com |
+| 巴基斯坦（卡拉奇） | pk-khi.ufileos.com | internal-pk-khi.ufileos.com |
+| 哈萨克斯坦（阿拉木图） | kz-ala.ufileos.com | internal-kz-ala.ufileos.com |
+
 
 **公有云下AWS S3协议各地域访问域名（Endpoint）如下：**
 
@@ -62,7 +65,10 @@ US3 对象存储提供外网、内网域名两种访问方式：外网域名可�
 | 20       | 英国（伦敦）     | s3-uk-london.ufileos.com    | internal.s3-uk-london.ufileos.com    |
 | 21       | 俄罗斯（莫斯科）   | s3-rus-mosc.ufileos.com     | internal.s3-rus-mosc.ufileos.com     |
 | 22       | 贵阳   | s3-cn-guiyang1.ufileos.com  | internal.s3-cn-guiyang1.ufileos.com  |
-| 23       | 巴基斯坦   | s3-pk-khi.ufileos.com  | internal.s3-pk-khi.ufileos.com  |
+| 23       | 美国（丹佛）   | s3-us-den.ufileos.com  | internal.s3-us-den.ufileos.com  |
+| 24       | 巴基斯坦（卡拉奇）   | s3-pk-khi.ufileos.com  | internal.s3-pk-khi.ufileos.com  |
+| 25       | 哈萨克斯坦（阿拉木图）   | s3-kz-ala.ufileos.com  | internal.s3-kz-ala.ufileos.com  |
+
 
 
 **注意：**
